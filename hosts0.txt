@@ -1,6 +1,6 @@
 # MalwareDomainList.com Hosts List #
 # http://www.malwaredomainlist.com/hostslist/hosts.txt #
-# Last updated: Mon, 04 Dec 17 19:18:42 +0000 #
+# Last updated: Tue, 03 Apr 18 20:39:48 +0000 #
 
 
 0.0.0.0 localhost
@@ -30,7 +30,7 @@
 0.0.0.0 ads.wikipartes.com
 0.0.0.0 adserving.favorit-network.com
 0.0.0.0 adv.riza.it
-Advancetec.co.uk 0.0.0.0
+0.0.0.0 Advancetec.co.uk 
 0.0.0.0 afa15.com.ne.kr
 0.0.0.0 agsteier.com
 0.0.0.0 aintdoinshit.com
@@ -45,9 +45,9 @@ Advancetec.co.uk 0.0.0.0
 0.0.0.0 alissonluis-musico.sites.uol.com.br
 0.0.0.0 allforlove.de
 0.0.0.0 allxscan.tk
-Alsoknowsit.com
+0.0.0.0 Alsoknowsit.com
 0.0.0.0 ama-alliance.com
-Amazingvacationhotels.com
+0.0.0.0 Amazingvacationhotels.com
 0.0.0.0 amazon-sicherheit.kunden-ueberpruefung.xyz
 0.0.0.0 ambulanciaslazaro.com
 0.0.0.0 americancareconcept.com
@@ -60,7 +60,6 @@ Amazingvacationhotels.com
 0.0.0.0 analxxxclipsyjh.dnset.com
 0.0.0.0 anshrit.com
 0.0.0.0 antalya.ru
-0.0.0.0 apexgames.org
 0.0.0.0 app.pho8.com
 0.0.0.0 arkinsoftware.in
 0.0.0.0 art-archiv.ru
@@ -102,7 +101,6 @@ Amazingvacationhotels.com
 0.0.0.0 boschetto-hotel.gr
 0.0.0.0 bracbetul.com
 0.0.0.0 bracewellfamily.com
-0.0.0.0 bravetools.net
 0.0.0.0 bride1.com
 0.0.0.0 broadtech.co
 0.0.0.0 buffalogoesout.com
@@ -159,8 +157,7 @@ Amazingvacationhotels.com
 0.0.0.0 decografix.com
 0.0.0.0 decorator.crabgrab.cl
 0.0.0.0 decota.es
-0.0.0.0 decrolyschool.be
-0.0.0.0
+0.0.0.0 decrolyschool.be 0.0.0.0 
 0.0.0.0 deletespyware-adware.com
 0.0.0.0 demo.vertexinfo.in
 0.0.0.0 dentairemalin.com
@@ -281,7 +278,7 @@ Amazingvacationhotels.com
 0.0.0.0 hardcorepornparty.com
 0.0.0.0 harshwhispers.com
 0.0.0.0 headless.ebkfwd.com
-Healthybloodpressure.info
+0.0.0.0 Healthybloodpressure.info
 0.0.0.0 helesouurusa.cjb.com
 0.0.0.0 hexadl.line55.net
 0.0.0.0 higher.dwebsi.tk
@@ -292,7 +289,7 @@ Healthybloodpressure.info
 0.0.0.0 hoawy.frost-electric-supply.com
 0.0.0.0 hobbat.fvds.ru
 0.0.0.0 hobby-hangar.net
-Hobbytotaalservice.nl
+0.0.0.0 Hobbytotaalservice.nl
 0.0.0.0 hoerbird.net
 0.0.0.0 holishit.in
 0.0.0.0 honor.agitaattori.fi
@@ -301,7 +298,7 @@ Hobbytotaalservice.nl
 0.0.0.0 hosting-controlpin.tk
 0.0.0.0 hosting-controlpr.tk
 0.0.0.0 hotfacesitting.com
-Hotspot.cz 0.0.0.0
+0.0.0.0 Hotspot.cz 
 0.0.0.0 hrdcvn.com.vn
 0.0.0.0 hst-19-33.splius.lt
 0.0.0.0 hujii.qplanner.cf
@@ -338,7 +335,6 @@ Hotspot.cz 0.0.0.0
 0.0.0.0 izzy-cars.nl
 0.0.0.0 japanesevehicles.us
 0.0.0.0 jdfabrication.com
-0.0.0.0 jeanlesigne.com
 0.0.0.0 jeansvixens.com
 0.0.0.0 jessisjewels.com
 0.0.0.0 josip-stadler.org
@@ -370,7 +366,6 @@ Hotspot.cz 0.0.0.0
 0.0.0.0 landisbaptist.com
 0.0.0.0 lay.elticket.com.ar
 0.0.0.0 lcbcad.co.uk
-0.0.0.0 leagleconsulting.com
 0.0.0.0 lefos.net
 0.0.0.0 legendsdtv.com
 0.0.0.0 lexu.goggendorf.at
@@ -389,17 +384,16 @@ Hotspot.cz 0.0.0.0
 0.0.0.0 luckyclear.info
 0.0.0.0 luckyeffect.info
 0.0.0.0 luckyhalo.info
-Luckypure.info
+0.0.0.0 Luckypure.info
 0.0.0.0 luckyshine.info
 0.0.0.0 luckysuccess.info
 0.0.0.0 luckysure.info
-Luckytidy.info
+0.0.0.0 Luckytidy.info
 0.0.0.0 luggage-tv.com
 0.0.0.0 luggagecast.com
 0.0.0.0 luggagepreview.com
 0.0.0.0 lunaticjazz.com
 0.0.0.0 luwyou.com
-0.0.0.0 lydwood.co.uk
 0.0.0.0 m2132.ehgaugysd.net
 0.0.0.0 mahindrainsurance.com
 0.0.0.0 mailboto.com
@@ -427,7 +421,7 @@ Luckytidy.info
 0.0.0.0 mmile.com
 0.0.0.0 mobatory.com
 0.0.0.0 mobile.bitterstrawberry.org
-Mocka.frost-electric-supply.com
+0.0.0.0 Mocka.frost-electric-supply.com
 0.0.0.0 molla.gato1000.cl
 0.0.0.0 monarchslo.com
 0.0.0.0 montezuma.spb.ru
@@ -455,7 +449,7 @@ Mocka.frost-electric-supply.com
 0.0.0.0 nestorconsulting.net
 0.0.0.0 networkmedical.com.hk
 0.0.0.0 neumashop.cl
-Nevergreen.net
+0.0.0.0 0.0.0.0 0.0.0.0 Nevergreen.net
 0.0.0.0 new-address.tk
 0.0.0.0 news4cars.com
 0.0.0.0 njtgsd.attackthethrone.com
@@ -561,7 +555,7 @@ Nevergreen.net
 0.0.0.0 purethc.com
 0.0.0.0 pwvita.pl
 0.0.0.0 pybul.bestfrozenporn.nl
-0.0.0.0 q28840.nb.host127-0-0-1.com
+0.0.0.0 q28840.nb.host0.0.0.0.com
 0.0.0.0 quotidiennokoue.com
 0.0.0.0 rainbowcolours.me.uk
 0.0.0.0 rallyeair.com
@@ -610,7 +604,6 @@ Nevergreen.net
 0.0.0.0 scanty.colormark.cl
 0.0.0.0 scdsfdfgdr12.tk
 0.0.0.0 scream.garudamp3.com
-0.0.0.0 sdg-translations.com
 0.0.0.0 securitywebservices.com
 0.0.0.0 seet10.jino.ru
 0.0.0.0 semengineers.com
@@ -746,7 +739,7 @@ Nevergreen.net
 0.0.0.0 ssl-6582datamanager.de
 0.0.0.0 static.retirementcommunitiesfyi.com
 0.0.0.0 stock.daydreamfuze.com
-Stopmeagency.free.fr
+0.0.0.0 0.0.0.0 Stopmeagency.free.fr
 0.0.0.0 stork.escortfinder.cl
 0.0.0.0 strangeduckfilms.com
 0.0.0.0 structured.blackswanstore.com
@@ -755,7 +748,6 @@ Stopmeagency.free.fr
 0.0.0.0 sunny99.cholerik.cz
 0.0.0.0 svetyivanrilski.com
 0.0.0.0 svision-online.de
-0.0.0.0 sweettalk.co
 0.0.0.0 sysconcalibration.com
 0.0.0.0 systemscheckusa.com
 0.0.0.0 szinhaz.hu
@@ -784,7 +776,6 @@ Stopmeagency.free.fr
 0.0.0.0 timothycopus.aimoo.com
 0.0.0.0 titon.info
 0.0.0.0 tk-gregoric.si
-0.0.0.0 toddscarwash.com
 0.0.0.0 tomalinoalambres.com.ar
 0.0.0.0 tophostbg.net
 0.0.0.0 traff1.com
@@ -882,7 +873,7 @@ Stopmeagency.free.fr
 0.0.0.0 url-cameralist.tk
 0.0.0.0 users173.lolipop.jp
 0.0.0.0 uvidu.butlerelectricsupply.com
-Vm.plan.ru
+0.0.0.0 Vm.plan.ru
 0.0.0.0 valouweeigenaren.nl
 0.0.0.0 vdula.czystykod.pl
 0.0.0.0 veevu.tourstogo.us
@@ -906,8 +897,8 @@ Vm.plan.ru
 0.0.0.0 vroll.net
 0.0.0.0 vural-electronic.com
 0.0.0.0 vvps.ws
-0.0.0.0 w4988.nb.host127-0-0-1.com
-0.0.0.0 w612.nb.host127-0-0-1.com
+0.0.0.0 w4988.nb.host0.0.0.0.com
+0.0.0.0 w612.nb.host0.0.0.0.com
 0.0.0.0 wahyufian.zoomshare.com
 0.0.0.0 wallpapers91.com
 0.0.0.0 warco.pl
@@ -922,7 +913,7 @@ Vm.plan.ru
 0.0.0.0 weboxmedia.by
 0.0.0.0 websalesusa.com
 0.0.0.0 websitebuildersinfo.in
-Welding.info
+0.0.0.0 Welding.info
 0.0.0.0 wetjane.x10.mx
 0.0.0.0 wetyt.tourstogo.us
 0.0.0.0 wfoto.front.ru
@@ -982,7 +973,6 @@ Welding.info
 0.0.0.0 www.dezuiderwaard.nl
 0.0.0.0 www.doctor-alex.com
 0.0.0.0 www.donneuropa.it
-0.0.0.0 www.dowdenphotography.com
 0.0.0.0 www.downloaddirect.com
 0.0.0.0 www.drteachme.com
 0.0.0.0 www.eivamos.com
@@ -1087,7 +1077,6 @@ Welding.info
 0.0.0.0 www.sitepalace.com
 0.0.0.0 www.sj88.com
 0.0.0.0 www.slivki.com.ua
-0.0.0.0 www.smartgvcfunding.com
 0.0.0.0 www.smartscan.ro
 0.0.0.0 www.sonnoli.com
 0.0.0.0 www.spris.com
@@ -1141,7 +1130,7 @@ Welding.info
 0.0.0.0 youtibe.com
 0.0.0.0 youtuhe.com
 0.0.0.0 yumekin.com
-0.0.0.0 z32538.nb.host127-0-0-1.com
+0.0.0.0 z32538.nb.host0.0.0.0.com
 0.0.0.0 z7752.com
 0.0.0.0 zgsysz.com
 0.0.0.0 zibup.csheaven.com
